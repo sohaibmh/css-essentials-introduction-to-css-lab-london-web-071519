@@ -19,6 +19,7 @@ div {<div width: 700px;
   /* Your code here! */
   font-size: 22px;
   color:red;
+  perspective-questions: italic;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
